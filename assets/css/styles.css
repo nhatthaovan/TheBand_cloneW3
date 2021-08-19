@@ -529,7 +529,7 @@ c3 sửa li a của More thành block
             padding: 15px 16px;
         }
         .btn-fontsize {
-            font-size: 17px;
+            font-size: 18px;
         }
         .contact-form,
         .form-control {
@@ -604,5 +604,8 @@ c3 sửa li a của More thành block
         }
         .s-mt-8 {
             margin-top: 8px;
+        }
+        .btn-fontsize {
+            font-size: 18px;
         }
     }
