@@ -341,7 +341,7 @@ c3 sửa li a của More thành block
         padding: 11px 16px;
         display: inline-block;
         margin-top: 15px;
-        font-size: 18px;
+        appearance: none;
     }
     
     .place-buy-btn:hover {
@@ -604,8 +604,5 @@ c3 sửa li a của More thành block
         }
         .s-mt-8 {
             margin-top: 8px;
-        }
-        .btn-fontsize {
-            font-size: 18px;
         }
     }
